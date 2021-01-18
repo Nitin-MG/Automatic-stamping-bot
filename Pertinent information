@@ -1,0 +1,43 @@
+ABSTRACT 
+Stamping and pad printing Machine is one of the principle machines in stamping industry & printing industry. It is 
+mainly used as the name indicates to stamp the logo or any other symbols. So we are going to make a machine for 
+“SHIVA ENTERPRISES” and make it with minimum cost and for profitable output. The machine is simple to 
+maintain, easy to operate. Hence we tried our hands on “automatic stamping machine.” Automatic stamping 
+machine is working on the principle of microcontroller. By using this machine we can easilyprint our logo or name 
+on leather, card board, papers, and plastic articles crafts by using pad printing tool.
+Keywords-Microcontroller, Printing, Logo, Symbols, Stamp.
+I.INTRODUCTION
+Printing & embossing is a process for reproducing text and images using a master form or template. The earliest 
+examples include Cylinder seals and other objects such as the Cyrus Cylinder and the Cylinders of Nabonidus. The 
+earliest known form of woodblock printing came from China dating to before 220 A.D. Later developments in 
+printing include the movable type, first developed by Bi Sheng in China. Gutenberg introduced mechanical movable 
+type printing to Europe in the 15th century, his printing press key role in the development of the Renaissance, 
+Reformation, the Age of Enlightenment, and the scientific revolution and laid the material basis for the modern 
+knowledge-based economy and the spread of learning to the masses. Modern large-scale printing & embossing is 
+typically done using a printing press, while small-scale printing is done free-form with a digital printer. Though 
+paper is the most common material, it is also frequently done on metals, plastics, cloth and composite materials. On 
+paper it is often carried out as a large-scale industrial process and is an essential part of publishing and transaction 
+printing. Johannes Gutenberg started work on his printing press around 1436, in partnership with Andreas Dritzehen 
+– whom he had previously instructed in gem-cutting – and Andreas Heilmann, the owner of a paper mill.
+It is not until a 1439 lawsuit against Gutenberg that an official record exists: witness testimony discussed type, an 
+inventory of metals (including lead) and his type mould. Compared to woodblock printing, movable type page 
+setting and printing using a press was faster and more durable. Also, the metal type pieces were sturdier and the 
+lettering more uniform, leading to typography and fonts. The high quality and relatively low price of the Gutenberg 
+Bible (1455) established the superiority of movable type for Western languages. The printing press rapidly spread 
+across Europe, leading up to the Renaissance, and later all around the world.Page-setting room - c. 1920.Gutenberg's 
+innovations in movable type printing have been called the most important invention of the second 
+millennium.Generally this machine we have made this is cost effective , with less maintainance and gives 
+considerable output.In this machine there are three modes of operation we have added i.e. maual mode , singal auto , 
+continuous auto .With minimum input by using this machine we can achieve maximum profit.This is the main 
+purpose of this machine. 
+Fig.1. Book printing in the 16th century.
+II.NEED OF AUTOMATIC STAMPING & PAD PRINTING MACHINE
+2.1 Statement of project
+The statement of project is “Design & fabrication of automatic stamping & pad Printing Machine” for used 
+punch or emboss the machine components names, symbols and other printing work.
+2.2 Objective
+1) To reduce the power consumption during machining.
+2) To maintain the accuracy in production.
+3) To develop automation unit, so that m/c can easily be adopted in today’s automated plants.
+4) This type of m/c provides work practically at low cost, low maintenance, low capital investment in less space.
+5) To perform the most rigid operation with high speed.
